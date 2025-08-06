@@ -49,7 +49,7 @@ Teaching & building reproducible workflows with Quarto
 
 ### 🌤️ DailyMeteo – Weather Forecast Platform
 
-Web platform delivering forecast & historical meteorological data.
+Web platform delivering forecast & historical meteorological data with AI support.
 
 REST API development for weather data endpoints
 
