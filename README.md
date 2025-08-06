@@ -52,7 +52,7 @@ Web platform delivering forecast & historical meteorological data.
 
 REST API development for weather data endpoints
 
-Dockerized deployment and CI/CD automation🔗 dailymeteo.com
+Dockerized deployment and CI/CD automation🔗 [dailymeteo.com](https://www.dailymeteo.com/)
 
 
 ### 🌍 OpenLandMap – Global Soil & Land Cover Portal
@@ -61,7 +61,7 @@ Interactive global platform for land, soil, and climate data visualization.
 
 Backend API development for REST & STAC endpoints
 
-Docker deployments and platform maintenance🔗 openlandmap.org
+Docker deployments and platform maintenance🔗 [openlandmap.org](https://openlandmap.org)
 
 
 ### 🛰️ EcoDataCube.eu – European EO Data Cube
@@ -70,7 +70,7 @@ Pan-European data cube of land cover and vegetation data (2000–2022+).
 
 Backend architecture for spatiotemporal processing
 
-CI/CD pipelines for STAC catalog and data delivery services🔗 ecodatacube.eu
+CI/CD pipelines for STAC catalog and data delivery services🔗 [ecodatacube.eu](https://ecodatacube.eu)
 
 
 ### 🌿 CropLab – Precision Agriculture Platform
@@ -79,7 +79,7 @@ Platform for NDVI/chlorophyll analysis, crop stage detection, and zone mapping.
 
 Backend development of spatiotemporal processing, alerting, and sensor integrations
 
-Docker-based microservice architecture with CI/CD pipelines🔗 croplab.info
+Docker-based microservice architecture with CI/CD pipelines🔗 [croplab.info](https://croplab.info) 
 
 
 ### 🌾 Projects @ GILab.rs
@@ -103,7 +103,7 @@ DIONE – EO-based toolbox for CAP compliance
 
 📫 Let's Connect
 
-LinkedIn: [linkedin.com/in/srdjan-popovic](https://www.linkedin.com/in/srpp011/)
+LinkedIn: [linkedin.com](https://www.linkedin.com/in/srpp011/)
 
 Email: srpp011@gmial.com
 
