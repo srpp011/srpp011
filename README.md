@@ -1,4 +1,4 @@
-👋 Hi, I'm Srdjan Popovic
+👋 Hi, I'm Srdjan
 
 Senior Backend Developer | Geoinformatics Specialist | EO/AI Explorer | Docker & CI/CD Enthusiast
 
