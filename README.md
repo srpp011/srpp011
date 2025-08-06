@@ -4,7 +4,7 @@ Senior Backend Developer | Geoinformatics Specialist | EO/AI Explorer | Docker &
 
 
 ***
-🛰️ About Me
+## 🛰️ About Me
 
 I build scalable and robust backend systems for Earth Observation, agricultural monitoring, and environmental analytics. With strong expertise in containerized deployments and CI/CD pipelines, I deliver reproducible, production-grade solutions to open-source initiatives and client-driven projects.
 
@@ -13,7 +13,7 @@ Currently, I work in a startup focused on geospatial and AI-driven technologies,
 
 ***
 
-🔧 Tech Stack
+## 🔧 Tech Stack
 
 Languages: Python, R, Kotlin
 
@@ -28,7 +28,7 @@ Databases: PostgreSQL/PostGIS, Redis, SQLite
 Visualization: Quarto, Leaflet, Deck.gl, Plotly
 ***
 
-🚀 Current Focus
+## 🚀 Current Focus
 
 Backend microservices for EO ingestion & processing
 
@@ -43,10 +43,10 @@ Integrating STAC APIs with GeoServer and cloud storage
 Teaching & building reproducible workflows with Quarto
 ***
 
-📂 Selected Projects
+## 📂 Selected Projects
 
 
-🌤️ DailyMeteo – Weather Forecast Platform
+### 🌤️ DailyMeteo – Weather Forecast Platform
 
 Web platform delivering forecast & historical meteorological data.
 
@@ -55,7 +55,7 @@ REST API development for weather data endpoints
 Dockerized deployment and CI/CD automation🔗 dailymeteo.com
 
 
-🌍 OpenLandMap – Global Soil & Land Cover Portal
+### 🌍 OpenLandMap – Global Soil & Land Cover Portal
 
 Interactive global platform for land, soil, and climate data visualization.
 
@@ -64,7 +64,7 @@ Backend API development for REST & STAC endpoints
 Docker deployments and platform maintenance🔗 openlandmap.org
 
 
-🛰️ EcoDataCube.eu – European EO Data Cube
+### 🛰️ EcoDataCube.eu – European EO Data Cube
 
 Pan-European data cube of land cover and vegetation data (2000–2022+).
 
@@ -73,7 +73,7 @@ Backend architecture for spatiotemporal processing
 CI/CD pipelines for STAC catalog and data delivery services🔗 ecodatacube.eu
 
 
-🌿 CropLab – Precision Agriculture Platform
+### 🌿 CropLab – Precision Agriculture Platform
 
 Platform for NDVI/chlorophyll analysis, crop stage detection, and zone mapping.
 
@@ -82,7 +82,7 @@ Backend development of spatiotemporal processing, alerting, and sensor integrati
 Docker-based microservice architecture with CI/CD pipelines🔗 croplab.info
 
 
-🌾 Projects @ GILab.rs
+### 🌾 Projects @ GILab.rs
 
 Worked on backend, Docker, and CI/CD automation across EU-funded and academic projects:
 
@@ -104,8 +104,6 @@ DIONE – EO-based toolbox for CAP compliance
 📫 Let's Connect
 
 LinkedIn: [linkedin.com/in/srdjan-popovic](https://www.linkedin.com/in/srpp011/)
-
-Twitter: @srdjan_code (if active)
 
 Email: srpp011@gmial.com
 
