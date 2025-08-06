@@ -8,7 +8,8 @@ Senior Backend Developer | Geoinformatics Specialist | EO/AI Explorer | Docker &
 
 I build scalable and robust backend systems for Earth Observation, agricultural monitoring, and environmental analytics. With strong expertise in containerized deployments and CI/CD pipelines, I deliver reproducible, production-grade solutions to open-source initiatives and client-driven projects.
 
-Currently working in a startup at the crossroads of web GIS, machine learning, and satellite data.
+Currently, I work in a startup focused on geospatial and AI-driven technologies, and I serve as a teaching and research assistant at the University of Belgrade – Faculty of Civil Engineering, in the field of geoinformatics and geodetic engineering.
+
 
 ***
 
