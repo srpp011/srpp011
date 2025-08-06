@@ -106,6 +106,6 @@ DIONE – EO-based toolbox for CAP compliance
 
 LinkedIn: [linkedin.com](https://www.linkedin.com/in/srpp011/)
 
-Email: srpp011@gmial.com
+Email: srpp011@gmail.com
 
 "Code with purpose. Map with intent."
