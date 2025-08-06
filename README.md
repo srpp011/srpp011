@@ -1,10 +1,10 @@
 👋 Hi, I'm Srdjan Popovic
 
-Senior Backend Developer | Geoinformatics Specialist | EO/AI Explorer 
+Senior Backend Developer | Geoinformatics Specialist | EO/AI Explorer | Docker & CI/CD Enthusiast
 
 🛰️ About Me
 
-I'm a Python backend developer with a deep curiosity for geospatial data, remote sensing, and environmental monitoring. With a strong academic and applied background, I work on scalable backend systems, spatiotemporal data processing, and Earth Observation platforms. I also enjoy making complex things more accessible—whether it's through open-source, clean API design, or teaching.
+I build scalable and robust backend systems for Earth Observation, agricultural monitoring, and environmental analytics. With strong expertise in containerized deployments and CI/CD pipelines, I deliver reproducible, production-grade solutions to open-source initiatives and client-driven projects.
 
 Currently working in a startup at the crossroads of web GIS, machine learning, and satellite data.
 
@@ -24,6 +24,10 @@ Visualization: Quarto, Leaflet, Deck.gl, Plotly
 
 🚀 Current Focus
 
+Backend microservices for EO ingestion & processing
+
+Automating builds & deployments using Docker and CI/CD pipelines
+
 Deploying full-stack geospatial apps using Docker Swarm
 
 Time series classification using satellite data (NDVI, FAPAR, etc.)
@@ -32,9 +36,56 @@ Integrating STAC APIs with GeoServer and cloud storage
 
 Teaching & building reproducible workflows with Quarto
 
-📂 Projects
+📂 Selected Projects
 
-📌 Placeholder for upcoming project links and descriptions (DIONE, DIAD, GeoBIZ, etc.)
+🌤️ DailyMeteo – Weather Forecast Platform
+
+Web platform delivering forecast & historical meteorological data.
+
+REST API development for weather data endpoints
+
+Dockerized deployment and CI/CD automation🔗 dailymeteo.com
+
+🌍 OpenLandMap – Global Soil & Land Cover Portal
+
+Interactive global platform for land, soil, and climate data visualization.
+
+Backend API development for REST & STAC endpoints
+
+Docker deployments and platform maintenance🔗 openlandmap.org
+
+🛰️ EcoDataCube.eu – European EO Data Cube
+
+Pan-European data cube of land cover and vegetation data (2000–2022+).
+
+Backend architecture for spatiotemporal processing
+
+CI/CD pipelines for STAC catalog and data delivery services🔗 ecodatacube.eu
+
+🌿 CropLab – Precision Agriculture Platform
+
+Platform for NDVI/chlorophyll analysis, crop stage detection, and zone mapping.
+
+Backend development of spatiotemporal processing, alerting, and sensor integrations
+
+Docker-based microservice architecture with CI/CD pipelines🔗 croplab.info
+
+🌾 Projects @ GILab.rs
+
+Worked on backend, Docker, and CI/CD automation across EU-funded and academic projects:
+
+AgriCaptureCO2 Services – Sustainable agriculture backend & deployment pipelines
+
+Open‑Earth‑Monitor – EO platform for environmental indicators across Europe
+
+Geo‑harmonizer – Backend for data portal with gridded spatial datasets
+
+GEOBIZ – Erasmus+ geoinformatics education infrastructure
+
+DIAD – Monitoring dashboard for development projects (Ethiopia)
+
+DIONE – EO-based toolbox for CAP compliance
+🔗 gilab.rs/projects
 
 📫 Let's Connect
 
