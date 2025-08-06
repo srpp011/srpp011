@@ -2,11 +2,15 @@
 
 Senior Backend Developer | Geoinformatics Specialist | EO/AI Explorer | Docker & CI/CD Enthusiast
 
+
+***
 🛰️ About Me
 
 I build scalable and robust backend systems for Earth Observation, agricultural monitoring, and environmental analytics. With strong expertise in containerized deployments and CI/CD pipelines, I deliver reproducible, production-grade solutions to open-source initiatives and client-driven projects.
 
 Currently working in a startup at the crossroads of web GIS, machine learning, and satellite data.
+
+***
 
 🔧 Tech Stack
 
@@ -21,6 +25,7 @@ DevOps: Docker, Docker Swarm, NGINX, Apache, Bash
 Databases: PostgreSQL/PostGIS, Redis, SQLite
 
 Visualization: Quarto, Leaflet, Deck.gl, Plotly
+***
 
 🚀 Current Focus
 
@@ -35,8 +40,10 @@ Time series classification using satellite data (NDVI, FAPAR, etc.)
 Integrating STAC APIs with GeoServer and cloud storage
 
 Teaching & building reproducible workflows with Quarto
+***
 
 📂 Selected Projects
+
 
 🌤️ DailyMeteo – Weather Forecast Platform
 
@@ -46,6 +53,7 @@ REST API development for weather data endpoints
 
 Dockerized deployment and CI/CD automation🔗 dailymeteo.com
 
+
 🌍 OpenLandMap – Global Soil & Land Cover Portal
 
 Interactive global platform for land, soil, and climate data visualization.
@@ -53,6 +61,7 @@ Interactive global platform for land, soil, and climate data visualization.
 Backend API development for REST & STAC endpoints
 
 Docker deployments and platform maintenance🔗 openlandmap.org
+
 
 🛰️ EcoDataCube.eu – European EO Data Cube
 
@@ -62,6 +71,7 @@ Backend architecture for spatiotemporal processing
 
 CI/CD pipelines for STAC catalog and data delivery services🔗 ecodatacube.eu
 
+
 🌿 CropLab – Precision Agriculture Platform
 
 Platform for NDVI/chlorophyll analysis, crop stage detection, and zone mapping.
@@ -69,6 +79,7 @@ Platform for NDVI/chlorophyll analysis, crop stage detection, and zone mapping.
 Backend development of spatiotemporal processing, alerting, and sensor integrations
 
 Docker-based microservice architecture with CI/CD pipelines🔗 croplab.info
+
 
 🌾 Projects @ GILab.rs
 
@@ -86,6 +97,8 @@ DIAD – Monitoring dashboard for development projects (Ethiopia)
 
 DIONE – EO-based toolbox for CAP compliance
 🔗 gilab.rs/projects
+
+*** 
 
 📫 Let's Connect
 
