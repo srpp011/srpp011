@@ -6,10 +6,11 @@ Senior Backend Developer | Geoinformatics Specialist | EO/AI Explorer | Docker &
 ***
 ## 🛰️ About Me
 
+Currently, I work in a startup - [Gilab](https://gilab.rs) focused on geospatial and AI-driven technologies, and I serve as a teaching and research assistant at the University of Belgrade – Faculty of Civil Engineering, in the field of geoinformatics and geodetic surveying.
+
+I worked as a Senior Software Engineer at Ocean Insights (Germany), which was acquired by Project44, where I was responsible for backend development and system integration for real-time logistics tracking with a focus on Ocean visibility track and trace. 
+
 I build scalable and robust backend systems for Earth Observation, agricultural monitoring, and environmental analytics. With strong expertise in containerized deployments and CI/CD pipelines, I deliver reproducible, production-grade solutions to open-source initiatives and client-driven projects.
-
-Currently, I work in a startup focused on geospatial and AI-driven technologies, and I serve as a teaching and research assistant at the University of Belgrade – Faculty of Civil Engineering, in the field of geoinformatics and geodetic engineering.
-
 
 ***
 
